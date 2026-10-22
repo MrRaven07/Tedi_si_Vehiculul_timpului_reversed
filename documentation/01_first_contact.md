@@ -29,7 +29,7 @@ MZ means it's a DOS executable.
 MZ comes from "Mark Zbikowski", one of the creators of MS-DOS.
 
 
-So it is a NSIS installer, meaning i can just extract it.
+So it is a NSIS (Nullsoft Scriptable Install System) installer, meaning i can just extract it.
 
 
 ## After extracting
@@ -64,6 +64,14 @@ drwxrwxrwx 1 nameee nameee    4096 Oct 21 09:49 ..
 Given by the name `obrazek.bmp` (Polish for "picture.bmp") we can assume that the game was made by a polish team.
 
 
+
+<p align="center">
+    <img width=40% src="../visuals/main_image.png">
+</p>
+
+
+
+
 I have never seen `.dcr` files
 
 ```bash
@@ -83,7 +91,7 @@ Running `strings` on the first `.dcr` file reveals in one of the lines:
  2004 Grzegorz Ludorowski
 ...
 ```
-Perhaps a copyright from the owner (UI/UX team).
+Perhaps a copyright from one of the developpers (UI/UX team).
 
 
 Curious about the `'0$'` file 

@@ -3,7 +3,12 @@ A walkthrough of my experience of trying to understand how does the romanian gam
 
 
 <p align="center">
-    <img width=70% src="./images/cover.png">
+    <img width=60% src="./visuals/cover.png">
+    <img width=35% src="./visuals/icon_bmp_sizedup.png">
+</p>
+
+<p align="center">
+    <img width=70% src="./visuals/blender_carrot.gif">
 </p>
 
 ---
@@ -27,6 +32,9 @@ Also, this research went for about 5 hours, so not really a lot of time spent.
 - [04_messing_things_up.md](./documentation/04_messing_things_up.md)  
     Extracting the `.w3d` files, modifying them and reassembling the whole thing back together  
 
+- [searching_for_threats.md](./documentation/searching_for_threats.md)  
+    Searching for possible threats because of the source of where i got the executable.
+
 ---
 
 
@@ -40,4 +48,12 @@ Now, the first place where i found it was from [myabandonware](https://www.myaba
 
 The place where i found the executable:
 https://archive.org/download/tedi-si-vehiculul-timpului
+
+
+### Assets?
+
+As much as i would want to document/post or use the assets, they most probably are under copyright laws, so i cannot publish anything.
+
+
+
 

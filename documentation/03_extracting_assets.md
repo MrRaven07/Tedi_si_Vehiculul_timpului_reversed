@@ -17,7 +17,7 @@ https://github.com/n0samu/DirectorCastRipper
 
 
 <p align="center">
-    <img width=60% src="../images/CastRipper.png">
+    <img width=60% src="../visuals/CastRipper.png">
 </p>
 
 After extracting the first `.dir` file `01_Drumul_spre_castel.dir`, showed a lot of files with different extensions, like:

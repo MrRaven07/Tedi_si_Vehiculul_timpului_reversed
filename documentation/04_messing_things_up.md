@@ -31,7 +31,7 @@ So i have to find `W3D` files in the extract.
 But looking back to the CastRipper, i see that Shockwave 3D is disabled and i have to get the D12 version instead of the D10.
 
 <p align="center">
-    <img width=60% src="../images/CastRipper12.png">
+    <img width=60% src="../visuals/CastRipper12.png">
 </p>
 
 Great, now i see the `.w3d` files, like: `3d_1_czarodziej_ambient1.w3d`
@@ -91,7 +91,8 @@ d 1.000000
 Plugging it onto an online viewer (or in blender)
 
 <p align="center">
-    <img width=60% src="../images/carrot_3d.png">
+    <img width=60% src="../visuals/carrot_3d.png">
+    <img width=100% src="../visuals/blender_carrot.gif">
 </p>
 
 

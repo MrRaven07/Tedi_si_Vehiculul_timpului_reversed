@@ -62,15 +62,21 @@ And then i went back to the reddit post and found the sole [comment](https://www
 Now, when putting the `.dir` file onto the application:
 
 <p align="center">
-    <img width=100% src="../images/MacromediaDirector_dir.png">
+    <img width=100% src="../visuals/MacromediaDirector_dir.png">
 </p>
 
 
 After that, when clicking on the play button in the top menu, started the whole game, to my surprise.
 
 <p align="center">
-    <img width=100% src="../images/MacromediaDirector_dir_running.png">
+    <img width=100% src="../visuals/MacromediaDirector_dir_running.png">
 </p>
+
+
+<p align="center">
+    <img width=100% src="../visuals/Macromedia_example.gif">
+</p>
+
 
 
 Clicking on all of the elements in the bottom right, revealed a lot of functions, polish words and code (in i think is Lingo programming language)
